@@ -1,0 +1,26 @@
+{
+  "name": "diversify-mvn",
+  "version": "1.0.0",
+  "description": "Generates 'valid' clones of a given Maven project",
+  "private": true,
+  "main": "gen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maxime Tricoire <max.tricoire@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "chalk": "^2.1.0",
+    "commander": "^2.11.0",
+    "fs-extra": "^4.0.2",
+    "glob": "^7.1.2",
+    "pkg-versions": "^1.1.0",
+    "request": "^2.83.0",
+    "xml2js": "^0.4.19"
+  },
+  "devDependencies": {
+    "eslint": "^4.8.0",
+    "eslint-config-kevoree": "^1.0.1"
+  }
+}

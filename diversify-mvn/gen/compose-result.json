@@ -1,0 +1,109 @@
+[
+  {
+    "isValid": true,
+    "nbChangedGrp": 15,
+    "deps": [
+      {
+        "g": "io.jsonwebtoken",
+        "a": "jjwt",
+        "v": "0.5"
+      },
+      {
+        "g": "com.ryantenney.metrics",
+        "a": "metrics-spring",
+        "v": "3.1.2"
+      },
+      {
+        "g": "com.jcraft",
+        "a": "jzlib",
+        "v": "1.1.0"
+      },
+      {
+        "g": "io.jsonwebtoken",
+        "a": "jjwt",
+        "v": "0.4"
+      },
+      {
+        "g": "com.mattbertolini",
+        "a": "liquibase-slf4j",
+        "v": "1.2.0"
+      },
+      {
+        "g": "org.ehcache",
+        "a": "ehcache",
+        "v": "3.2.0.beta1"
+      },
+      {
+        "g": "commons-io",
+        "a": "commons-io",
+        "v": "2.0.1"
+      },
+      {
+        "g": "com.h2database",
+        "a": "h2",
+        "v": "1.4.189"
+      },
+      {
+        "g": "org.mapstruct",
+        "a": "mapstruct-jdk8",
+        "v": "1.2.0.Beta3"
+      },
+      {
+        "g": "com.fasterxml.jackson.datatype",
+        "a": "jackson-datatype-hibernate5",
+        "v": "2.8.10"
+      },
+      {
+        "g": "com.fasterxml.jackson.datatype",
+        "a": "jackson-datatype-hppc",
+        "v": "2.8.10"
+      },
+      {
+        "g": "com.fasterxml.jackson.datatype",
+        "a": "jackson-datatype-jsr310",
+        "v": "2.8.10"
+      },
+      {
+        "g": "com.fasterxml.jackson.datatype",
+        "a": "jackson-datatype-json-org",
+        "v": "2.8.10"
+      },
+      {
+        "g": "com.fasterxml.jackson.module",
+        "a": "jackson-module-afterburner",
+        "v": "2.8.10"
+      },
+      {
+        "g": "com.mattbertolini",
+        "a": "liquibase-slf4j",
+        "v": "2.0.0"
+      },
+      {
+        "g": "commons-io",
+        "a": "commons-io",
+        "v": "2.5"
+      },
+      {
+        "g": "com.ryantenney.metrics",
+        "a": "metrics-spring",
+        "v": "3.0.1"
+      },
+      {
+        "g": "io.jsonwebtoken",
+        "a": "jjwt",
+        "v": "0.6.0"
+      },
+      {
+        "g": "io.springfox",
+        "a": "springfox-swagger2",
+        "v": "2.4.0"
+      },
+      {
+        "g": "io.springfox",
+        "a": "springfox-bean-validators",
+        "v": "2.4.0"
+      }
+    ],
+    "path": "gen-dir/config4-100-0"
+  }
+]
